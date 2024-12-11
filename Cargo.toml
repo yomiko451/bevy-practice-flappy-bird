@@ -1,5 +1,5 @@
 [package]
-name = "bevy-practice"
+name = "bevy-practice-flappy-bird"
 version = "0.1.0"
 edition = "2021"
 
